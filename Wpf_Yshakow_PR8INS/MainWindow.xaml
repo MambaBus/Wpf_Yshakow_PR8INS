@@ -1,0 +1,13 @@
+﻿<Window x:Class="Wpf_Yshakow_PR8INS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Yshakow_PR8INS"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Height="40" Width="100" Margin="25,21,667,358" Click="Button_Click">Пример 1</Button>
+        <Button Height="40" Margin="146,21,423,358" Click="Button_Click_1">Индивидуальное задание</Button>
+    </Grid>
+</Window>
