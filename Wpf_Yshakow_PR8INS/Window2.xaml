@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_Yshakow_PR8INS"
         mc:Ignorable="d"
-        Title="Window2" Height="450" Width="500">
+        Title="Вариант 12" Height="450" Width="500">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
