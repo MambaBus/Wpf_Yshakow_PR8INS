@@ -28,7 +28,7 @@
         <TextBox x:Name="X0" Grid.Row="0" Grid.Column="1" TextWrapping="Wrap" Text="1" VerticalContentAlignment="Center" Margin="5"/>
         <TextBox x:Name="Xk" Grid.Row="1" Grid.Column="1" TextWrapping="Wrap" Text="2,2"  VerticalContentAlignment="Center" Margin="5"/>
         <TextBox x:Name="Dx" Grid.Row="2" Grid.Column="1" TextWrapping="Wrap" Text="0,2" VerticalContentAlignment="Center" Margin="5"/>
-        <TextBox x:Name="B" Grid.Row="3" Grid.Column="1" TextWrapping="Wrap" Text="0,75" VerticalContentAlignment="Center" Margin="5"/>
+        <TextBox x:Name="B" Grid.Row="3" Grid.Column="1" TextWrapping="Wrap" Text="3,2" VerticalContentAlignment="Center" Margin="5"/>
         <TextBox x:Name="X" Grid.Row="4" Grid.Column="0" Margin="5" TextWrapping="Wrap" HorizontalContentAlignment="Left" VerticalContentAlignment="Top"/>
         <TextBox x:Name="Y" Grid.Row="4" Grid.Column="1" Margin="5" TextWrapping="Wrap" HorizontalContentAlignment="Left" VerticalContentAlignment="Top"/>
 
